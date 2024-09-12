@@ -1,1 +1,1 @@
-caddy:2.8.4-builder
+golang:1.22.3
